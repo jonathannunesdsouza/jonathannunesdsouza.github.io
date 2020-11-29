@@ -4,8 +4,8 @@ University.
 
 Este projeto nada mais é que uma página html estática, que foi utilizada p/ testar conceitos práticos do uso das ferramentas Git e Github.
 
-![Screenshoot tela inicial](images/screenshot-inicio.jpg)
-![Screenshoot tela curriculo](images/screenshoot-curriculo.jpg)
+![screenshoot tela inicial](images/screenshot-inicio.jpg)
+![screenshoot tela curriculo](images/screenshoot-curriculo.jpg)
 
 ## Instalação 
 

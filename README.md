@@ -4,14 +4,14 @@ University.
 
 Este projeto nada mais é que uma página html estática, que foi utilizada p/ testar conceitos práticos do uso das ferramentas Git e Github.
 
-![screenshoot tela inicial](images/screenshot-inicio.jpg)
-![screenshoot tela curriculo](images/screenshoot-curriculo.jpg)
+![screenshoot tela inicial](images/screenshot-inicio.JPG)
+![screenshoot tela curriculo](images/screenshoot-curriculo.JPG)
 
 ## Instalação 
 
 Basta clonar o repositório da forma desejada.
 
-![screenshoot tela de clonagem de repositorio](images/screenshoot-instalacao.jpg)
+![screenshoot tela de clonagem de repositorio](images/screenshoot-instalacao.JPG)
 
 Com o repositório clonado, as alterações poderam ser feitas localmente sem problema algum.
 

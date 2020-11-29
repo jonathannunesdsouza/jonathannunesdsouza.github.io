@@ -11,7 +11,7 @@ Este projeto nada mais é que uma página html estática, que foi utilizada p/ t
 
 Basta clonar o repositório da forma desejada.
 
-![Screenshoot tela de clonagem de repositorio](images/screenshoot-instalacao.jpg)
+![screenshoot tela de clonagem de repositorio](images/screenshoot-instalacao.jpg)
 
 Com o repositório clonado, as alterações poderam ser feitas localmente sem problema algum.
 

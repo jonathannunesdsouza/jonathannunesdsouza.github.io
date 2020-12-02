@@ -11,9 +11,9 @@ Este projeto nada mais é que uma página html estática, que foi utilizada p/ t
 
 Basta clonar o repositório da forma desejada.
 
-![screenshoot tela de clonagem de repositorio](images/screenshoot-instalacao.JPG)
-
-Com o repositório clonado, as alterações poderam ser feitas localmente sem problema algum.
+```
+$ git clone https://github.com/jonathannunesdsouza/jonathannunesdsouza.github.io.git
+```
 
 ## Histórico de atualização 
 

@@ -1,6 +1,6 @@
 # Cúrriculo online 
-> Um currículo online feito no curso de Git e Github da Geek
-University.
+> Um currículo online feito no [curso de Git e Github da Geek
+University].
 
 Este projeto nada mais é que uma página html estática, que foi utilizada p/ testar conceitos práticos do uso das ferramentas Git e Github.
 
@@ -29,3 +29,5 @@ Jonathan Douglas Nunes de Souza - [@jonathansouza] - <jonathannunes.souza98@gmai
 Distribuido sob licença. Veja **`LICENÇA`** para mais informações.
 
 [https://github.com/jonathannunesdsouza/jonathannunesdsouza.github.io]
+
+[curso de Git e Github da Geek University]:https://www.udemy.com/course/curso-de-git-e-github-essencial/
